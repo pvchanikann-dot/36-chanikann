@@ -6,5 +6,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-a = int(input())
-b = int(input())
+a = int(input(9))
+b = int(input(4))
+print("A is greater หาก A > B")
