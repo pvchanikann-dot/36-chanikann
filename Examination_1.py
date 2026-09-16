@@ -6,4 +6,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-total_minutes = int(input())
+total_minutes = int(input("90นาที"))
+input("จำนวนชั่วโมง:" )
+print("แสดงจำนวนชั่วโมง")
+input("แสดงนาทีที่เหลือ")
